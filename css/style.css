@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#logo-word{
+    font-size: 40px;
+    font-weight: 900;
+    vertical-align: 30%;
+    color: hsl(0deg 0% 0%);
+}
+
+#main{
+    background-color: grey;
+    /* hsl(200deg 20% 97%); */
+    /* width: 100%; */
+    /* margin: 20px; */
+}
+
+#second-box{
+    margin-left: 20px;
+}
+
+h2{
+    margin-top: 30px;
+}
+
+.bg-button{
+    border-radius: 5px;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0px;
+}
+
+.bt1{
+    color: white;
+    background-color: hsl(204deg 86% 61%);
+}
+
+.bt2{
+    color: grey;
+    border-color: grey;
+    background-color: white;
+}
+
+.remove-bullet{
+    list-style-type: none;
+}
+
