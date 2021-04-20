@@ -126,3 +126,9 @@ li{
 .bg-yellow{
     background-color: hsl(69deg 68% 47%);
 }
+
+/* CSS-VALIDATOR */
+#css-validator{
+    width: 150px;
+    display: inline-block;
+}
